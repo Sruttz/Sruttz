@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Tech Explorer!</h3>
 <img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/FuJbeKLXwAM0All.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sruttz&label=Profile%20views&color=0e75b6&style=flat" alt="sruttz" /> </p>
-align="right"
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
