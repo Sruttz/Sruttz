@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sruthika Sivakumar</h1>
-<h2 align="center">A passionate Tech Explorer!</h2>
+<h1 align="center">Hi there👋, Sruthika Sivakumar here!</h1>
+<h2 align="center">A passionate Tech Explorer</h2>
 <img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/FuJbeKLXwAM0All.jpg">
 
 <h1 align="left">Languages and Tools:</h1>
